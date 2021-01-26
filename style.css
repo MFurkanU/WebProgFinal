@@ -1,0 +1,21 @@
+   .box {
+      margin: 10px;
+      border: 3px gainsboro solid;
+      padding: 0px;
+      width: 300px;
+      background-color:white
+}
+.box2{
+    border: 3px gainsboro solid;
+    width: 300px;
+    padding-top: 0;
+    padding: 25px;
+    background-color: white
+}
+.box3{
+    border: 1px gainsboro solid;
+    width: 320px;
+    padding-top: 0;
+    padding: 4px;
+    background-color: white
+}
